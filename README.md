@@ -63,7 +63,7 @@ You can now install the `example-patched.apk` file on your Android device and us
 
 ### Patching App Bundles
 
-You can also patch apps using [Android App Bundle](android-app-bundle) with `apk-mitm` by providing it with a `*.xapk` file (for example from [APKPure][apkpure]) or a `*.apks` file (which you can export yourself using [SAI][sai]). If you're doing this on Linux, make sure that both `zip` and `unzip` are installed.
+You can also patch apps using [Android App Bundle](android-app-bundle) with `apk-mitm` by providing it with a `*.xapk` file (for example from [APKPure][apkpure]) , <a href="https://sosoapkapp.com/">sosoapkapp</a> or a `*.apks` file (which you can export yourself using [SAI][sai]). If you're doing this on Linux, make sure that both `zip` and `unzip` are installed.
 
 ### Making manual changes
 
